@@ -13,7 +13,7 @@ A decentralized NFT creation and minting platform built on Lisk Sepolia testnet.
 
 ## 🚀 Live Demo
 
-[Add your deployed application URL here]
+[Click here to view the live demo](https://nft-platform-blond.vercel.app)
 
 ## 🛠 Technology Stack
 
@@ -36,8 +36,8 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
-   cd nft-platform
+   git clone NFT-Platform
+   cd Nft-Platform
    ```
 
 2. **Install dependencies**
@@ -153,6 +153,8 @@ The platform interacts with the following smart contract methods:
 
 ### Project Structure
 ```
+smart_contract/
+   ├── Art_NFT.sol
 src/
 ├── components/
 ├── ABI/
@@ -183,11 +185,5 @@ If you encounter any issues or have questions:
 - Open an issue on GitHub
 - Check the troubleshooting section
 - Review the smart contract documentation
-
-## 🎨 Screenshots
-
-[Add screenshots of your application here]
-
----
 
 **Built with ❤️ on Lisk Sepolia**
