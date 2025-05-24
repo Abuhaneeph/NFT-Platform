@@ -36,7 +36,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone [NFT-Platform]
+   git clone NFT-Platform
    cd Nft-Platform
    ```
 
